@@ -105,3 +105,28 @@
     border-radius: 0px;
   }
 }
+
+@media screen and (min-width: 1024px) {
+  body {
+    width: 80%;  
+  }
+  
+  .ad img,
+  .subscribe img,
+  .finds img,
+  .online img  {
+    width: 100%;  /* Ensures the images scale to fill their container */
+  }
+  
+  .active {
+    font-size: 30px;
+  }
+  
+  .topnav a.icon {
+    padding: 18.5px 15px;
+  }
+  
+  .logo {
+    height: 120px;
+  }
+}
