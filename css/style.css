@@ -107,10 +107,6 @@
 }
 
 @media screen and (min-width: 1024px) {
-  body {
-    width: 80%;  
-  }
-  
   .ad img,
   .subscribe img,
   .finds img,
@@ -122,11 +118,15 @@
     font-size: 30px;
   }
   
+  .topnav {
+    margin-top: 7rem;
+  }
   .topnav a.icon {
     padding: 18.5px 15px;
   }
   
   .logo {
-    height: 120px;
+    height: 130px;
+    padding-left: 15px;
   }
 }
