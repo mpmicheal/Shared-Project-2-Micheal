@@ -118,12 +118,23 @@ form label {
   font-weight: bold;
 }
 
-font input {
+form input {
   width: 90%;
   padding: 10px;
   margin-bottom: 15px;
   border: 1px solid #ccc;
   border-radius: 7px;
+}
+
+form button {
+  width: 90%;
+  padding: 12px;
+  background-color: #002b7f;
+  color: white;
+  border: none;
+  border-radius: 7px;
+  font-size: 16px;
+  cursor: pointer;
 }
 
 
