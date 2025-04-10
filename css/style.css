@@ -92,6 +92,21 @@
   padding-bottom: 5px;
 }
 
+.signup-container {
+  background-color: white;
+  border-radius: 10px;
+  padding: 30px;
+  max-width: 400px;
+  margin: 30px auto;
+  box-shadow: 0 4px 10px 0px;
+  
+}
+
+.signup-container h2 {
+  color: #0b3278;
+  margin-bottom: 11px;
+}
+
 @media screen and (min-width: 768px) {  
   .container {
     display: flex;
