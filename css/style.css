@@ -24,7 +24,6 @@
   color: white;
   padding: 12px 14px;
   text-decoration: none;
-  font-size: 20px;
   display: block;
   /*change font here*/
   font-family: Arial;
@@ -46,6 +45,8 @@
 .active {
   background-color: #001E78;
   color: white;
+  font-weight: bold;
+  font-size: 20px;
 }
 
 .main {
