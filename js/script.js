@@ -10,7 +10,7 @@ function myFunction() {
 
 document.addEventListener("DOMContentLoaded", function () {
   const form = document.querySelector("form");
-  const nameInput = document.getElementById("name");
+  const nameInput = document.getElementById("fullname");
   form.addEventListener("submit", function (event) {
     event.preventDefault();
 
