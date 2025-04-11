@@ -121,7 +121,7 @@ h4 {
   padding: 30px;
   max-width: 90%;
   margin: 30px auto;
-  box-shadow: 0 4px 10px 0px;
+  box-shadow: box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);;
   
 }
 
@@ -145,6 +145,7 @@ form label {
   display: block;
   margin-bottom: 15px;
   font-weight: bold;
+  color: #5b5e61;
 }
 
 form input {
