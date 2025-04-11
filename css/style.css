@@ -115,7 +115,6 @@ h4 {
   padding-bottom: 5px;
 }
 
-<<<<<<< HEAD
 .signup-container {
   background-color: white;
   border-radius: 10px;
@@ -170,8 +169,6 @@ form button:hover {
   background-color: #001c5b;
 }
 
-
-=======
 .tagline {
   text-align: center;
   color: #666;
@@ -306,7 +303,7 @@ form button:hover {
 .recipe-highlights p {
   margin: 5px 0;
 }
->>>>>>> 24166c11c84a56ebc64fec121f49b65a4e19c899
+
 
 @media screen and (min-width: 768px) {  
   .container {
